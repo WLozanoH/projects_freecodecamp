@@ -1,6 +1,6 @@
 import numpy as np
 def calculate(lista):
-    #lista = input('ingresa una lista: ')
+
     if len(lista) !=9:
         raise ValueError('La lista debe contener nueve números')
     
